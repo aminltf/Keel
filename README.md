@@ -160,7 +160,7 @@ public sealed class EmployeesSpec : Specification<Employee>
 - Contracts, not implementations
   Kernel ships interfaces for Repository/UnitOfWork and Outbox. Implement them in your Infra layer.
 
-  ---
+---
 
 ## Running tests
 
